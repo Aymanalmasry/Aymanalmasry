@@ -1,0 +1,10 @@
+body{
+background-image:url("bg6.jpg");}
+h2 {
+border-width: 20px;
+border-style: groove;
+border-color: red;
+background-color:#eee;
+width:50%;
+height:50%;
+}
